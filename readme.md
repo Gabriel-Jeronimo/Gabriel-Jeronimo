@@ -5,7 +5,7 @@
  </div>
  <div class="col">
  <h3 class="card-title">Know me</h3>
-- 🔭 I’m currently working on websites with PHP
+- 🔭 I’m currently working on websites with PHP <br>
 - 🌱 I’m currently learning Laravel
 - 🎧 I love hip-hop and rock
 - 🕹️ My favorite games is Stardew Valley and Subnautica
