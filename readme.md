@@ -3,7 +3,8 @@
   <div class="container">
   <div class="row">
     <div class="col">
-      ![Anime programming](typing.gif)
+      ![typing](https://user-images.githubusercontent.com/55462130/90344119-03aaf480-dfed-11ea-87e6-9840a1aae8af.gif)
+
     </div>
     <div class="col">
           <h3 class="card-title">Know me</h3>
