@@ -1,8 +1,5 @@
  
-<html>
-  <div class="container">
-  <div class="row">
-    <div class="col">
+
       ![typing](https://user-images.githubusercontent.com/55462130/90344119-03aaf480-dfed-11ea-87e6-9840a1aae8af.gif)
 
     </div>
@@ -14,20 +11,13 @@
 - 🕹️ My favorite games is Stardew Valley and Subnautica
 - 📍 Currently I live in São Paulo - Capital
 - ⚽ I’m a fan of São Paulo Futebol Clube
-</p>
-    </div>
-  </div>
- </div>  
-</html>   
 
-</br>
 
 ### **Linguagens e ferramentas:**  
 
 
 
-
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
+![python](https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png")
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/django/django.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
 <code><img height="30" src="https://simpleicons.org/icons/microsoftsqlserver.svg"></code>
@@ -37,7 +27,7 @@
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/laravel/laravel.png"></code>
 
 
-</br>    
+
 
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
@@ -48,12 +38,3 @@
 </a>
 
 
-
-</br>
-
-
-<html>
- </br>
-  </div>
-  </br>
-</html>
