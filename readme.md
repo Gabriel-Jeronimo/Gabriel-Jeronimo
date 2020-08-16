@@ -3,7 +3,7 @@
   <div class="container">
   <div class="row">
     <div class="col">
-      <img align="right" src="https://github.com/jelonmusk/jelonmusk/blob/master/tenor.gif" class="card-img" width="350" height="350"  alt="" />
+      ![Anime programming](typing.gif)
     </div>
     <div class="col">
           <h3 class="card-title">Know me</h3>
