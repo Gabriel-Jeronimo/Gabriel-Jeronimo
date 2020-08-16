@@ -30,10 +30,10 @@
 
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=gabriel-jeronimo&show_icons=true&include_all_commits=true&theme=dark&hide=prs" alt="Gabriel's github stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=gabriel-jeronimo&show_icons=true&include_all_commits=true&theme=tokyonight&hide=prs" alt="Gabriel's github stats" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gabriel-Jeronimo&layout=compact&theme=dark" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gabriel-Jeronimo&layout=compact&theme=tokyonight" />
 </a>
 
 
