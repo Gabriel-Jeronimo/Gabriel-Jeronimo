@@ -5,12 +5,12 @@
  </div>
  <div class="col">
  <h3 class="card-title">Know me</h3>
-- 🔭 I’m currently working on websites with PHP <br>
-- 🌱 I’m currently learning Laravel
-- 🎧 I love hip-hop and rock
-- 🕹️ My favorite games is Stardew Valley and Subnautica
-- 📍 Currently I live in São Paulo - Capital
-- ⚽ I’m a fan of São Paulo Futebol Clube
+- 🔭 I’m currently working on websites with PHP<br>
+- 🌱 I’m currently learning Laravel<br>
+- 🎧 I love hip-hop and rock<br>
+- 🕹️ My favorite games is Stardew Valley and Subnautica<br>
+- 📍 Currently I live in São Paulo - Capital<br>
+- ⚽ I’m a fan of São Paulo Futebol Clube<br>
 
 
 ### **Linguagens e ferramentas:**  
