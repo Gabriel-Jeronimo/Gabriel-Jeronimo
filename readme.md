@@ -1,6 +1,7 @@
  
 
-  ![typing](https://user-images.githubusercontent.com/55462130/90344119-03aaf480-dfed-11ea-87e6-9840a1aae8af.gif)
+ ![banner](https://user-images.githubusercontent.com/55462130/96778676-6096a280-13c2-11eb-8421-5bdc3cfa12f7.png)
+
 
  </div>
  <div class="col">
