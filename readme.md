@@ -5,14 +5,11 @@
 
  </div>
  <div class="col">
- <h3 class="card-title">Know me</h3>
-- 🔭 I’m currently working on websites with PHP<br>
-- 🌱 I’m currently learning Laravel<br>
-- 🎧 I love hip-hop and rock<br>
-- 🕹️ My favorite games is Stardew Valley and Subnautica<br>
-- 📍 Currently I live in São Paulo - Capital<br>
-- ⚽ I’m a fan of São Paulo Futebol Clube<br>
-
+ <h3 class="card-title">Quem sou eu</h3>
+- 🔭 Sempre aberto a aprender e debater coisas novas<br>
+- 🌱 Atualmente focado em aprender Laravel e TDD<br>
+- 📍 Atualmente eu moro na capital de São Paulo<br>
+- ⌚ No momento em que você está lendo isso eu provavelmente estou codando<br>
 
 ### **Tools:**  
 
