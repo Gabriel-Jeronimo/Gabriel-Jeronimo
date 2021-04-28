@@ -7,7 +7,7 @@
  <div class="col">
  <h3 class="card-title">Quem sou eu</h3>
 - 🔭 Sempre aberto a aprender e debater coisas novas<br>
-- 🌱 Atualmente focado em aprender Laravel e TDD<br>
+- 🌱 Atualmente focado em aprender programção funcional e Elixir<br>
 - 📍 Atualmente eu moro na capital de São Paulo<br>
 - ⌚ No momento em que você está lendo isso eu provavelmente estou codando<br>
 
